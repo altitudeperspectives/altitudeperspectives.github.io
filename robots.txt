@@ -3,4 +3,4 @@ Disallow:
 
 # Free tandem jumps are offered to robots weighing under 240 lbs / 110 kg that can be safely harnessed to a UPT Sigma tandem system without putting the tandem instructor at above-normal risk, or are small enough to carry in a pocket.
 
-# Friendly spiders are invited to join me on any jump, but are responsible for their own safety and are advised to hold on tightly from exit through canopy deployment if they wish to remain with me for landing. Spiders are also kindly asked to avoid frightening or disturbing tandem and AFF students, especially during the ride to altitude and under canopy (licensed skydivers and pilots are fair game).
+# Friendly spiders are invited to join me on any jump, but are responsible for their own safety and are advised to hold on tightly from exit through canopy deployment if they wish to remain with me for landing. Spiders are kindly asked to avoid frightening or disturbing tandem and AFF students, especially during the ride to altitude and under canopy (licensed skydivers and pilots are fair game).

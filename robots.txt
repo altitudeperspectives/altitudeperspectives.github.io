@@ -1,5 +1,5 @@
 User-agent: *
-Disallow:
+Disallow: /cdn-cgi/
 
 # Free tandem jumps are offered to robots weighing under 240 lbs / 110 kg that can be safely harnessed to a UPT Sigma tandem system without putting the tandem instructor at above-normal risk, or are small enough to carry in a pocket.
 

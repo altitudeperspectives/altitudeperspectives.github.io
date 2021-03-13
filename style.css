@@ -1,0 +1,21 @@
+html{
+  position: relative;
+  font-family: sans-serif;
+  text-align:center;
+  min-height: calc(100% - 70px);
+  width: calc(100% - 70px);
+  border: 30px solid gray;
+  top: 5px; left: 5px; right: 5px; bottom: 5px;
+}
+body { font: 400 105% "Source Serif Pro", serif }
+h1   { font: 400 200% "Trade Winds", serif }
+h2   { font: 600 130% "Source Serif Pro", serif }
+h3   { font: italic 700 medium "Source Serif Pro", serif }
+h4   { font: italic 400 medium "Source Serif Pro", serif }
+p    { }
+div.motto {
+  font: italic 115% "Source Serif Pro", serif;
+  max-width: 49ch;
+  margin-left: auto;
+  margin-right: auto;
+}

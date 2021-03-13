@@ -1,6 +1,7 @@
 html {
   position: relative;
   text-align: center;
+  hyphens: manual;
   min-height: calc(100% - 70px);
   width: calc(100% - 70px);
   border: 30px solid gray;

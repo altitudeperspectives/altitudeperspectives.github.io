@@ -29,4 +29,4 @@ h1   {margin: 0     0  0.3em}
 h2   {margin: 1em   0  0.3em}
 h3   {margin: 1em   0  0.3em}
 h4   {margin: 0.3em 0  0}
-p    {margin: 0}
+p    {margin: 0; max-width: 70ch}

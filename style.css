@@ -13,6 +13,7 @@ html {
   border: 30px solid gray;
 }
 
+img  {width:10em; height:10em; padding-top: 1em}
 a    {text-decoration: none; color: #005588}
 
 body {font:        400 105% "Source Serif Pro", serif}
@@ -23,7 +24,7 @@ h3   {font: italic 700 100% "Source Serif Pro", serif}
 h4   {font: italic 600 100% "Source Serif Pro", serif}
 
 body {line-height: 1.4}
-h1   {margin: 1.5em 0  0.3em}
+h1   {margin: 0     0  0.3em}
 .mot {margin: 0   auto 0.5em; max-width: 49ch}
 h2   {margin: 1em   0  0.3em}
 h3   {margin: 1em   0  0.3em}

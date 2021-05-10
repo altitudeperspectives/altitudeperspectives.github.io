@@ -15,7 +15,7 @@ h3   {font: italic 700 100% "Source Serif Pro", serif}
 h4   {font: italic 600 100% "Source Serif Pro", serif}
 
 body {line-height: 1.4}
-br   {line-height: 0.5}
+br   {line-height: 5}
 h1   {margin: 1.5em 0  0}
 .mot {margin: 0.5em auto 1em; max-width: 49ch}
 h2   {margin: 2em   0  0.5em}

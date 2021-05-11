@@ -24,6 +24,7 @@ h3   {font: italic 700 100% "Source Serif Pro", serif}
 h4   {font: italic 600 100% "Source Serif Pro", serif}
 
 body {line-height:  1.4}
+br   {line-height:  0.5}
 h1   {margin: 0     auto  0.3em}
 .mot {margin: 0     auto  0.5em}
 h2   {margin: 1em   auto  0.3em}

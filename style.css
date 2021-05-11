@@ -23,10 +23,11 @@ h2   {font:        600 130% "Source Serif Pro", serif}
 h3   {font: italic 700 100% "Source Serif Pro", serif}
 h4   {font: italic 600 100% "Source Serif Pro", serif}
 
-body {line-height:  1.4}
-h1   {margin: 0     auto  0.3em}
-.mot {margin: 0     auto  0.5em}
-h2   {margin: 1em   auto  0.3em}
-h3   {margin: 1em   auto  0.3em}
-h4   {margin: 0.3em auto  0}
-p    {margin: 0     auto}
+body {line-height: 1.4}
+br   {line-height: 0.5}
+h1   {margin: 1.5em 0  0}
+.mot {margin: 0.5em auto 1em; max-width: 49ch}
+h2   {margin: 2em   0  0.5em}
+h3   {margin: 1em   0  0.5em}
+h4   {margin: 0.5em 0  0}
+p    {margin: 0}
